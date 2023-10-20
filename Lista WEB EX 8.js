@@ -1,2 +1,2 @@
-let listaDeCompras = ["pão", "leite", "ovos"];
+let listaDeCompras = ["achocolatado", "carne", "maca"];
 console.log(listaDeCompras);
