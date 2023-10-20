@@ -1,7 +1,5 @@
-//Exercício 4
-
-let numero1 = 10;
-let numero2 = 20;
+let numero1 = 30;
+let numero2 = 80;
 
 let soma = numero1 + numero2;
 let subtracao = numero1 - numero2;
